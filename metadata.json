@@ -1,0 +1,7 @@
+{
+  "name": "Janatar Ishtihar",
+  "description": "A platform for the people of Bangladesh to share their aspirations and contribute to the future manifesto.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
